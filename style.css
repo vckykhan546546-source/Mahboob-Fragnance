@@ -1,0 +1,47 @@
+h1
+		{
+			color: black;
+			text-align: center;
+			font-size: 50px;
+		}
+		/*body
+		{
+			background-color:rgba(100,255,150,1 )
+		}
+*/
+		#top-heading2
+		{
+			text-align: right;
+			font-size: 40px;
+			color:blue ;
+		}
+		.heading3
+		{
+			text-align: center;
+			font-size: 45px;
+			color:red ;
+			font-weight: bolder;
+		}
+		/*stylesheet started here for second-page.css*/
+		#top-heading
+		{
+ 			text-align: center;
+			font-size: 45px;
+			color:blue;
+/*			text-decoration:overline;*/
+			text-transform: capitalize;
+			text-indent:200px;
+			letter-spacing:2px;
+			word-spacing:4px;
+			text-shadow:5px 20px 10px black;
+			font-family:sans-serif;
+		}
+		#paragraph1
+		{
+			color: green;
+			font-size: 27px;
+			font-style: italic;
+			font-weight:bolder;
+			background-color:yellow;
+
+		}
